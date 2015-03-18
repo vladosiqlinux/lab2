@@ -1,0 +1,4 @@
+all:
+	gcc hellow.c -o helloww
+clean:
+	rm helloww
